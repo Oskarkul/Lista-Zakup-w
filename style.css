@@ -1,0 +1,11 @@
+body{
+    background-color: teal;
+}
+.active{
+    background: none;
+    color: orange;
+}
+li{
+    background:none;
+    color: black;
+}
